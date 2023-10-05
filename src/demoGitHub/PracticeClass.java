@@ -5,5 +5,11 @@ public class PracticeClass {
 	public static void main(String[] args) {
 		System.out.println("Practicing Repository");
 	}
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
+	public static void String() {
+		System.out.println("Practicing PUSH");
+	}
 
 }
