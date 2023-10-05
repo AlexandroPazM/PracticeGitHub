@@ -12,4 +12,9 @@ public class PracticeClass {
 		System.out.println("Practicing PUSH");
 	}
 
+	// Practice from GitHub
+	public static void web(){
+	system.out.println("Practicing from web")
+	}
+
 }
