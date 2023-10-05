@@ -14,7 +14,7 @@ public class PracticeClass {
 
 	// Practice from GitHub
 	public static void web(){
-	system.out.println("Practicing from web")
+	System.out.println("Practicing from web");
 	}
 
 }
